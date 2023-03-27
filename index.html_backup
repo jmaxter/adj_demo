@@ -352,52 +352,6 @@
                     </div>
                 </div>
             </div>
-            <!-- INICIA SEGUNDA LINEA DE ACTIVIDADES -->
-            <!--<div class="row g-4 justify-content-center">-->
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
-                        <h4 class="mb-3">Programa Radial</h4>
-                        <p class="mb-4">Programa <b>"Una hora con Jesús"</b>. Sintonícenos los Jueves de 11:00 AM a 12:00 PM por <b>Inmaculada FM 102.3</b> y a travéz de nuestro Live en Instagram <b>@pdhombres</b>.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Conozca más
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <!--
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
-                        <h4 class="mb-3">Retiro de Hombres</h4>
-                        <p class="mb-4">Tres veces al año, organizamos el Retiro de los Amigos de Jesús, para hombres que tienen el deseo de  tener un Encuentro Personal con Jesús.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Conozca más
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
-                        <h4 class="mb-3">Apoyo en la Diosecis</h4>
-                        <p class="mb-4">Junto con la Pastoral Penitenciaria de la Diocesis Colón-Kuna Yala, llevamos la palabra a nuestros hermanos y hermanas privados de libertad.</p>
-                        <a class="btn btn-outline-primary px-3" href="">
-                            Conozca más
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                -->
-            </div>
-            <!-- TERMINA SEGUNDA LINEA DE ACTIVIDADES -->
         </div>
     </div>
     <!-- Service End -->
@@ -409,7 +363,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Dona Ahora</div>
-                    <h1 class="display-6 text-white mb-5">Con tu ayuda lograremos nuestro objetivo: <u>facilitar que hombres tengan un encuentro personal con Jesús.</u></h1>
+                    <h1 class="display-6 text-white mb-5">Con tu ayuda lograremos nuestro objetivo: que hombres tengan un encuentro con Jesús.</h1>
                     <p class="text-white-50 mb-0">Ingrese sus datos y seleccione el monto de su intención de donación. De esta forma nos pondremos en contacto con usted para indicarle los métodos de pago disponibles que tenemos a disposición.<br /><br />
                     Le enviaremos un correo electrónico agradeciendo su donación y tendrá la oportunidad de manifestar si desea hacer aportes recurrentes.</p>
                 </div>
@@ -593,7 +547,7 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h1 class="fw-bold text-primary mb-4">Amigos de <span class="text-white">Jesús</span></h1>
-                    <p>Nuestra misión es facilitar que hombres tengan un encuentro personal con Jesús. Su Señor y Salvador.</p>
+                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -617,10 +571,10 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Boletín Informativo</h5>
-                    <p>Suscríbase a nuestro boletín informativo trimestral y reciba en su correo actualizaciones sobre nuestras actividades.</p>
+                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Enviar</button>
+                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Suscribirse</button>
                     </div>
                 </div>
             </div>
